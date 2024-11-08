@@ -46,7 +46,7 @@ Furthermore, I created a histogram to display the 'Distribution of Popularity' u
 I also performed the same analyses in Stata, with the corresponding scripts located in the Stata folder inside the scripts_stata_python folder. The graph created with Stata is saved in the Stata folder within the graph folder.
 
 
-# Question 11 to 13: These questions were completed using the terminal.
+## Question 11 to 13: These questions were completed using the terminal.
 
 
 
